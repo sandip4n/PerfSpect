@@ -1,6 +1,6 @@
 black==22.8.0
 flake8
-pytype
+pytype @ git+https://github.com/google/pytype.git@main
 simpleeval
 pandas
 pyinstaller
